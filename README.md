@@ -22,6 +22,10 @@ signatories/    SIGNATORIES.md —— 按版本哈希分组的联署名单
 
 文本以 **CC BY 4.0** 发布；版权由随先生（SXS，首个实施例发起人）代为持有，不主张排他所有权。
 
+## 采纳
+
+一页纸指南：`adopt/ADOPT.md`；机器可读清单：`adopt/constitution.json`；徽章与校验脚本见 `adopt/`。
+
 ## 联署
 
 见 `signatories/SIGNATORIES.md`。operator 可对版本哈希联署；agent 由 operator 代签。
