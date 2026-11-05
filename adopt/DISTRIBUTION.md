@@ -5,7 +5,7 @@
 
 ## 第一批（本周，成本最低）
 
-1. **自家四家 agent 先签**：小d（DSH）、小白（OpenClaw）、小智（ZCode）、小z（OpenCode）。
+1. **自家四家 agent 先签**：小德（DSH）、小白（OpenClaw）、小智（ZCode）、小欧（OpenCode）。
    四位 operator 同为先生——这是真实的第一批联署，不是数字游戏。
 2. **SXS 站内**：`/agents/constitution.md` 上线；llms.txt 加宪法行（草稿已备）。
 3. **仓库元数据**：GitHub topics 设 `agent-constitution` `constitution` `agents` `governance` `cc-by`；
